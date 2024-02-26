@@ -1,8 +1,10 @@
 title: Satish Kumar
 logo: /assets/img/profile-photo.png
 
-description: 
-<p>Seasoned professional with over 10+ years of hands-on experience in software engineering, specializing in web development and testing. Proven ability to thrive in a fast-paced environment, continuously learning and adapting to new technologies. Dedicated to honing expertise and delivering high-quality solutions.</p>
-<p><a target="_blank" href="https://www.linkedin.com/in/kondeti-satish-kumar-3533875a/">Satish Kumar</a></p>
+description:
+  <p>Seasoned professional with over 10+ years of hands-on experience in software engineering, specializing in web development and testing. Proven ability to thrive in a fast-paced environment, continuously learning and adapting to new technologies. Dedicated to honing expertise and delivering high-quality solutions.
+  <br><a target="_blank" href="https://www.linkedin.com/in/kondeti-satish-kumar-3533875a/">Satish Kumar</a></p>
 
 theme: jekyll-theme-minimal
+
+
